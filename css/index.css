@@ -1,10 +1,11 @@
 body {
     font-family: 'Noto Sans JP', sans-serif;
     font-size: 1rem;
+    text-align: center;
 }
 
 #main {
-    background-color: mintcream;
+    background-color: aliceblue;
     border-radius: 10px;
 }
 
@@ -14,7 +15,7 @@ h1 {
 }
 
 figure {
-    background-color: oldlace;
+    background-color: whitesmoke;
     padding: 15px;
     border-radius: 15px;
     display: block;
@@ -44,6 +45,7 @@ h2 {
 ul {
     max-width: 45%;
     margin-left: 25%;
+    text-align: justify;
 }
 
 li {
