@@ -1,0 +1,53 @@
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 1rem;
+}
+
+#main {
+    background-color: mintcream;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+}
+
+figure {
+    background-color: oldlace;
+    padding: 15px;
+    border-radius: 15px;
+    display: block;
+}
+
+figcaption {
+    margin: 16px;
+    display: block;
+    font-size: .9rem;
+}
+
+p {
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    max-width: 45%;
+    margin-left: 25%;
+}
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+    margin: 15px;
+}
